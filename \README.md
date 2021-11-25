@@ -1,0 +1,4 @@
+- 👋 Hi, I’m SimpyTheDev
+- 👀 I’m interested in Motocross and game/plugin developement
+- 🌱 I’m currently learning Java and i know lua and html
+- 📫 How to reach me (email : SimpyTheDev@gmail.com, discord: simpy#4128)
